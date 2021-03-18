@@ -1,0 +1,7 @@
+conf/ 
+data/
+src/__pycache__
+env/
+src/d00_utils/__pycache__
+.vscode
+.idea
